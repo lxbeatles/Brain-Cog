@@ -7,6 +7,7 @@ import abc
 import math
 from abc import ABC
 
+
 import numpy as np
 import torch
 from torch import nn
